@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+pydantic
+redis>=4.2.0
+aio-pika
